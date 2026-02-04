@@ -35,7 +35,7 @@ My core expertise lies in the end-to-end AI lifecycle—from fine-tuning LLMs an
 My research focuses on clinical applications of AI and human-centric deep learning models.
 
 * **Fine-Tuning MedGemma for Clinical Captioning to Enhance Multimodal RAG over Malaysia CPGs**
-    *Accepted by 2025 13th IEEE Conference on Systems, Process & Control (ICSPC2025)* | [Read Preprint]([https://arxiv.org/abs/2510.15418v2](https://ieeexplore.ieee.org/document/11326535)
+    *Accepted by 2025 13th IEEE Conference on Systems, Process & Control (ICSPC2025)* | [Read Preprint](https://ieeexplore.ieee.org/document/11326535)
 * **FundaQ-8: A Clinically-Inspired Scoring Framework for Automated Fundus Image Quality Assessment**
     *IEEE Xplore* | [Read Paper](https://ieeexplore.ieee.org/document/11167629) | [Project Link](https://github.com/qmed-asia/FundaQ-8)
 * **Human-Centric Approach to Enhancing Charisma Detection in Speech Through Adaptive Deep Learning Model**
